@@ -4,9 +4,9 @@ title: "The Quantum Liquidity Threat: Why Institutional Capital is Forcing a Com
 date: 2026-05-22 10:00:00 +0200
 category: "DeFi"
 author: "The Macro Edge Editorial Team"
-image: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
-feature-img: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
-thumbnail: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
+image: "https://images.pexels.com/photos/18413725/pexels-photo-18413725.jpeg?auto=compress&cs=tinysrgb&w=1200"
+feature-img: "https://images.pexels.com/photos/18413725/pexels-photo-18413725.jpeg?auto=compress&cs=tinysrgb&w=1200"
+thumbnail: "https://images.pexels.com/photos/18413725/pexels-photo-18413725.jpeg?auto=compress&cs=tinysrgb&w=1200"
 excerpt: "As quantum computing timelines accelerate in mid-2026, the bedrock of decentralized finance is facing a silent crisis. Discover how the race for post-quantum cryptography is restructuring global capital flows."
 redirect_from:
   - /the-quantum-liquidity-threat-defi-cryptography-overhaul/
