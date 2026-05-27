@@ -157,11 +157,3 @@ The correct reallocation structure positions capital across three distinct layer
 
 - **Allocate to verified environmental land instruments.** High-integrity carbon sequestration credits and biodiversity offset certificates represent the only return stream available from physical land that is not subject to direct synthetic competition.
 
-The **Macro Edge** in this transition cycle belongs to capital that correctly identifies the new asset class boundaries. The productive value of land in **2026** is no longer measured in calories harvested. It is measured in carbon sequestered, IP licensed, and computational cycles consumed.
-
-Investors who continue applying 20th-century farmland valuation models to a market governed by 21st-century bioprocessing economics are not holding a hard asset. They are holding an obsolete production paradigm at institutional scale.
-
-
-**How does genetic cybersecurity factor into synthetic food investment risk?**
-
-As food production centralizes into bioprocessing clusters, the intellectual property embedded in proprietary microbial strains becomes critical national infrastructure. The risk of cyber-attack targeting genetic databases or bioreactor control systems represents a new category of systemic food security risk. Capital allocation toward genetic firewall technology and post-quantum biosecurity infrastructure is emerging as a distinct institutional investment theme in **2026**.
